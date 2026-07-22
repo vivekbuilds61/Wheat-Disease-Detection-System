@@ -12,6 +12,4 @@ Thumbs.db
 data/raw/
 data/processed/
 data/satellite/
-models/**/*.h5
-models/**/*.pt
-models/**/*.tflite
+
