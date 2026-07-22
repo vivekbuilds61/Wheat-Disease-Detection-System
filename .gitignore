@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data / Models
+data/raw/
+data/processed/
+data/satellite/
+models/**/*.h5
+models/**/*.pt
+models/**/*.tflite

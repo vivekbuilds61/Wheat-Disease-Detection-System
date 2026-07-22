@@ -1,0 +1,18 @@
+datetime,filename,prediction,confidence_percent
+2026-01-13 22:53:56,los(8).JPG,rust_stem,55.94
+2026-01-13 22:54:21,los(37).JPG,rust_stem,93.08
+2026-01-13 22:54:44,los(72).JPG,rust_stem,69.12
+2026-01-13 22:55:04,lolr(18).JPG,rust_stem,94.09
+2026-01-13 22:55:33,loh(84).JPG,healthy,56.49
+2026-01-13 22:55:46,loh(30).JPG,rust_stem,56.09
+2026-01-13 22:55:58,loh(62).JPG,healthy,51.25
+2026-01-17 15:36:50,loh(5).JPG,healthy,66.59
+2026-01-17 15:37:24,los(62).JPG,rust_stem,85.08
+2026-01-17 15:42:50,los(76).JPG,rust_stem,77.28
+2026-01-17 18:39:17,los(59).JPG,rust_stem,90.08
+2026-01-18 12:09:37,los(80).JPG,rust_stem,81.96
+2026-01-18 12:10:53,loh(65).JPG,healthy,67.97
+2026-01-19 20:19:27,lolr(89).JPG,rust_stem,98.15
+2026-01-19 21:44:01,loh(7).JPG,healthy,62.14
+2026-01-20 19:25:34,loh(85).JPG,healthy,56.65
+2026-02-18 17:52:13,loh(72).JPG,healthy,57.02

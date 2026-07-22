@@ -1,0 +1,21 @@
+name: wheat_disease_app
+description: Wheat Disease Detector
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+ddependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.2.1
+  tflite_flutter: ^0.12.1
+  image: ^4.1.7
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/model.tflite
+    - assets/labels.txt
